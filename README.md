@@ -19,9 +19,15 @@
 
 ### Languages and Tools : 🛠
 
-<a> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"> </a>
+<a> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c++%2B%2B&logoColor=white"> </a>
 <a> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">  </a>
 <a> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> </a>
-<a> <img src="https://img.shields.io/badge/SQL%20-%b1351f.svg?&style=for-the-badge&logo=database&logoColor=black"/> </a>
-<a> <img src="https://img.shields.io/badge/arduino%20-%216182.svg?&style=for-the-badge&logo=arduino&logoColor=black"/> </a>
+<a> <img src="https://img.shields.io/badge/PostgreSQL%20-black?&style=for-the-badge&logo=postgresql"/> </a>
+
+<a> <img src="https://img.shields.io/badge/arduino-blue?&style=for-the-badge&logo=arduino&logoColor=black"/> </a>
+<a> <img src="https://img.shields.io/badge/-Git-black?&style=for-the-badge&logo=git"/> </a>
+<a> <img src="https://img.shields.io/badge/-Raspberry-C51A4A?&style=for-the-badge&logo=Raspberry-Pi"/> </a>
+<a> <img src="https://img.shields.io/badge/-Tableau-white?&style=for-the-badge&logo=tableau"/> </a>
+<a> <img src="https://img.shields.io/badge/-Looker Studio-white?&style=for-the-badge&logo=Looker"/> </a>
+<a> <img src="https://img.shields.io/badge/-Visual Studio Code-333333?&style=for-the-badge&logo=visual-studio-code"/> </a>
 <hr>
